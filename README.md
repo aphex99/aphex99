@@ -22,7 +22,7 @@ Frontend-разработчик с опытом командной работы 
 
 **Deploy**
 
-[Inctagram](https://github.com/incubator-social/vopp.me)
+[Inctagram](https://vopp.me/)
 
 <!--
 **aphex99/aphex99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
