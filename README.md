@@ -21,7 +21,7 @@ Frontend-разработчик с опытом командной работы 
 - В настоящее время работаю над функциональностью добавления постов в профиль с поддержкой загрузки нескольких фотографий и их последующего редактирования.
 
 **Deploy
-[Inctagram]([https://github.com/incubator-social/vopp.me](https://vopp.me/)
+[Inctagram]([https://github.com/incubator-social/vopp.me)
 
 <!--
 **aphex99/aphex99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
