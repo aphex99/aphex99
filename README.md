@@ -9,7 +9,7 @@ Frontend-разработчик с опытом командной работы 
 ### 💻 Мои проекты:
 - [Inctagram](https://github.com/incubator-social/vopp.me) — командная разработка, Next.js, RTK Query.
 - [Tasks Manager](https://github.com/aphex99/todolist) — CRUD-приложение, React, Redux Toolkit, TypeScript.
-- [Next.js Users Table](https://github.com/aphex99/nxtable — SSR, база данных, пагинация.
+- [Next.js Users Table](https://github.com/aphex99/nxtable) — SSR, база данных, пагинация.
 
 ### 🔗 Учебная стажировка — Inctagram Desktop App
 Совместная разработка (7 участников) на курсе IT-Incubator.  
