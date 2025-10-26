@@ -20,7 +20,8 @@ Frontend-разработчик с опытом командной работы 
 - Интеграция авторизации через Github и Google с использованием внешних OAuth сервисов.
 - В настоящее время работаю над функциональностью добавления постов в профиль с поддержкой загрузки нескольких фотографий и их последующего редактирования.
 
-[Inctagram](https://github.com/incubator-social/vopp.me)
+**Deploy
+[Inctagram]([https://github.com/incubator-social/vopp.me](https://vopp.me/)
 
 <!--
 **aphex99/aphex99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
