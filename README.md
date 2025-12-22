@@ -7,8 +7,8 @@
 - [Tasks Manager](https://github.com/aphex99/todolist) — CRUD-приложение, React, Redux Toolkit, TypeScript.
 - [Next.js Users Table](https://github.com/aphex99/nxtable) — SSR, база данных, пагинация.
 
-### 🔗 Учебная стажировка — Inctagram Desktop App
-Совместная разработка (7 участников) на курсе IT-incubator.  
+### 🔗 Inctagram Desktop App
+Совместная разработка (7 участников).  
 Работа с Next.js, RTK Query, REST API, SSR/SSG.  
 Мои задачи в проекте:
 - Создание компонентов и их интеграция в Storybook.
