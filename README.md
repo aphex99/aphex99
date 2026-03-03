@@ -3,18 +3,7 @@
 Я Роман Белов, Frontend-разработчик. Основной стек: Next.js, React, RTK, TypeScript
 
 ### 💻 Мои проекты:
-- [Inctagram](https://github.com/incubator-social/vopp.me) — командная разработка, Next.js, RTK Query.
-- [Tasks Manager](https://github.com/aphex99/todolist) — CRUD-приложение, React, Redux Toolkit, TypeScript.
 - [Next.js Users Table](https://github.com/aphex99/nxtable) — SSR, база данных, пагинация.
-
-### 🔗 Inctagram Desktop App
-Совместная разработка (7 участников).  
-Работа с Next.js, RTK Query, REST API, SSR/SSG.  
-Мои задачи в проекте:
-- Создание компонентов и их интеграция в Storybook.
-- Разработка функционала регистрации пользователей с подтверждением электронной почты и логики перенаправлений в различных сценариях.
-- Интеграция авторизации через Github и Google с использованием внешних OAuth сервисов.
-- Реализация функциональности добавления постов в профиль с поддержкой загрузки нескольких фотографий и их последующего редактирования.
 
 <!--
 **aphex99/aphex99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
