@@ -3,6 +3,7 @@
 Я Роман Белов, Frontend-разработчик. Основной стек: Next.js, React, RTK, TypeScript
 
 ### 💻 Мои проекты:
+- [Products Table](https://github.com/aphex99/react-table) — Typescript, React, Tanstack Query
 - [Next.js Users Table](https://github.com/aphex99/nxtable) — SSR, база данных, пагинация.
 
 <!--
