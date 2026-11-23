@@ -1,10 +1,10 @@
-## Hi there 👋
+## Привет! 👋
 
-Я Роман Белов, Frontend-разработчик. Основной стек: Next.js, React, RTK, TypeScript
+Я Роман, Frontend-разработчик. Специализируюсь на разработке веб-приложений с использованием React, Next.js и TypeScript
 
-### 💻 Мои проекты:
-- [Products Table](https://github.com/aphex99/react-table) — Typescript, React, Tanstack Query
-- [Next.js Users Table](https://github.com/aphex99/nxtable) — SSR, база данных, пагинация.
+### 💻 Мои проекты
+
+- **[Products Table](https://github.com/aphex99/react-table)** — приложение для работы с каталогом товаров: поиск, сортировка, серверная пагинация. React, TypeScript, TanStack Query, React Hook Form
 
 <!--
 **aphex99/aphex99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
