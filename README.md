@@ -6,6 +6,8 @@
 
 - **[Products Table](https://github.com/aphex99/react-table)** — приложение для работы с каталогом товаров: поиск, сортировка, серверная пагинация. React, TypeScript, TanStack Query, React Hook Form
 
+- **[Interview Questions](https://github.com/aphex99/questions-test-task)** — приложение для подготовки к техническим собеседованиям: комбинированная фильтрация, поиск, серверная пагинация и навигация между вопросами. React, TypeScript, Redux Toolkit, RTK Query
+
 <!--
 **aphex99/aphex99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
